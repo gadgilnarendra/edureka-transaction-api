@@ -1,0 +1,8 @@
+This is tthe Empty File.:
+
+Perform the below mentioned steps:
+1.Create a repository called “edureka-transaction-api”
+2.Clone it
+3.Check the current branch
+4.Add few files
+5.Commit them with message6.Push them in branch7.Check last commits
